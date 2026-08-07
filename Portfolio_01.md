@@ -7,63 +7,36 @@
 
 ## Process Execution Benchmarking
 
-**Artefact:** Abb et al. (2025) — *Identifying Process Improvement Opportunities Through Process Execution Benchmarking*  
-**Artefact Type:** Peer-reviewed conference paper  
-**DOI:** `10.1007/978-3-031-95397-2_2`
+Abb et al. (2025) examine process execution benchmarking as a method for identifying process improvement opportunities. Their approach compares an organisation’s event log with a benchmark process to identify activity changes based on behavioural similarity. It also evaluates whether proposed changes are feasible and estimates their likely impact on process performance. This shows that process analysis can support evidence-based decisions about process improvement (Abb et al. 2025, p. 19).
 
-Abb et al. examine process execution benchmarking as a way to identify improvement opportunities. Their method compares an organisation’s event log with a benchmark process and recommends activity changes based on behavioural similarity. It also evaluates whether changes are feasible and estimates their likely performance impact. This shows that process analysis can support evidence-based improvement decisions (Abb et al. 2025, p. 19).
+I chose this artefact because it changed my understanding of process analysis. Initially I thought analysis mainly involved finding problems in an existing process. I now understand that effective analysis should also explain what could be improved why a change is appropriate and how that change may affect performance. This artefact demonstrates my learning because I can connect process data with redesign decisions. It is meaningful evidence of my BPM understanding because it shows how analysis supports informed business process improvement.
 
-I chose this artefact because it changed how I understand process analysis. At first I thought analysis was mainly about finding what is wrong with an existing process. I now understand that good analysis should also provide evidence about what could be changed and why. This artefact demonstrates my learning because I can connect process performance data with practical redesign decisions.
+## Prioritising High-Impact Processes
 
----
+Lubane and Kirikova (2025) examine how organisations can prioritise business processes for improvement when resources are limited. Their approach considers process health, strategic importance, feasibility and interdependencies between processes. The study highlights that changing one process may also affect other connected processes. This supports a more strategic approach to process analysis where organisations focus on processes that create the greatest value or have the strongest organisational impact rather than analysing every process equally (Lubane & Kirikova 2025, p. 36).
 
-## Artefact 2: Prioritising High-Impact Processes
+I selected this artefact because it improved my understanding of process prioritisation. Previously I assumed that the most inefficient process should always be analysed first. I now understand that organisations must also consider strategic value, available resources and cross-functional effects. This artefact demonstrates my learning because I can now see process analysis as an organisation-wide activity where processes are interconnected. It is meaningful evidence of my BPM understanding because effective analysis requires careful selection of processes before improvement begins.
 
-**Artefact:** Lubane and Kirikova (2025) — *Interdependency-Aware Business Process Prioritization for Process Improvements*  
-**Artefact Type:** Peer-reviewed conference paper  
-**DOI:** `10.1007/978-3-031-95397-2_3`
+## Workarounds and Real Process Execution
 
-Lubane and Kirikova focus on how organisations can prioritise processes for improvement when resources are limited. Their approach considers process health, importance, feasibility and interdependencies. The study recognises that improving one process can influence other connected processes. This supports a strategic approach to selecting processes for analysis rather than treating each process separately (Lubane & Kirikova 2025, p. 36).
+Bartelheimer et al. (2025) examine how employees sometimes use workarounds by intentionally deviating from standard business processes to overcome practical difficulties. Their study investigates 13 workarounds across four organisations and identifies mismatches between formal process models, event logs and actual process execution. The findings show that recorded system data may not always reflect what employees really do in practice. This can create data-quality issues and reduce the reliability of process analysis results (Bartelheimer et al. 2025, p. 339).
 
-I selected this artefact because it helped me understand scope and prioritisation in process analysis. I previously assumed that an inefficient process should automatically receive attention first. I now recognise that organisations must also consider strategic value and cross-functional effects. This artefact demonstrates that I understand process analysis as an organisation-wide activity rather than an isolated technical exercise.
+I chose this artefact because it helped me understand that process analysis should not rely only on system data or formal documentation. I learned that observation, interviews and employee feedback may be necessary to identify hidden activities and understand why employees deviate from standard procedures. This artefact demonstrates my learning because it connects human behaviour with process performance. It is meaningful evidence of my BPM understanding because reliable analysis requires both accurate data and an understanding of how processes actually operate.
 
----
+## Process Mining and Bottleneck Analysis
 
-## Artefact 3: Workarounds and Real Process Execution
+Lee, Shin and Lee (2025) present a process mining framework for analysing manufacturing processes from process, time, resource and quality perspectives. Their study shows how event-log data can be used to identify bottlenecks, workload problems and areas requiring improvement. The framework demonstrates how data-driven process analysis can provide a clearer understanding of actual process performance and support continuous optimisation rather than relying only on manual observation or assumptions (Lee, Shin & Lee 2025, p. 5641).
 
-**Artefact:** Bartelheimer et al. (2025) — *Workarounds as a Cause of Mismatches in Business Processes: Insights from a Multiple Case Study*  
-**Artefact Type:** Peer-reviewed journal article  
-**DOI:** `10.1007/s12599-025-00943-5`
+I selected this artefact because it gave me a more practical understanding of process mining. Before studying this topic I mainly associated process analysis with observation and manual investigation. I now understand that event data can reveal waiting times, resource issues and bottlenecks that may be difficult to detect manually. This artefact demonstrates my learning because it connects technology with process performance. It is meaningful evidence of my BPM understanding because process mining can support more accurate analysis and continuous process improvement.
 
-Bartelheimer et al. investigate workarounds where employees intentionally deviate from standard processes to overcome practical obstacles. Their study examines 13 workarounds across four organisations and identifies three types of mismatch between event logs and real process execution. It shows that recorded data may not always represent what happens in practice and can create data-quality problems for process analysis (Bartelheimer et al. 2025, p. 339).
-
-I chose this artefact because it made me think more critically about information used during process analysis. I learned that system data alone may not reveal the complete process. Observation, interviews and employee feedback may be needed to understand hidden behaviour and its causes. This is meaningful evidence of my BPM learning because it connects human involvement with reliable process analysis.
-
----
-
-## Artefact 4: Process Mining and Bottleneck Analysis
-
-**Artefact:** Lee, Shin and Lee (2025) — *Manufacturing Process Analysis Framework for Process Mining: Case Study of Fully Automated Factory Applications*  
-**Artefact Type:** Peer-reviewed journal article  
-**DOI:** `10.1007/s00170-025-15029-5`
-
-Lee, Shin and Lee present a process mining framework that analyses manufacturing processes from process, time, resource and quality perspectives. Their study shows how event-log data can identify bottlenecks and workload issues and support improvement proposals. The framework demonstrates how data-driven analysis can support continuous optimisation and operational performance (Lee, Shin & Lee 2025, p. 5641).
-
-I selected this artefact because it gave me a practical understanding of process mining. Before this topic I mainly associated process analysis with observation and manual investigation. I now understand how event data can reveal waiting times, resource problems and bottlenecks that may be difficult to identify manually. The artefact demonstrates how technology can strengthen evidence-based process analysis and continuous improvement.
-
----
-
-## Overall Reflection
+## Reflection and Conclusion
 
 Through these artefacts I developed a broader understanding of process analysis. I learned that effective analysis is not limited to identifying inefficient activities. It also involves deciding which processes deserve attention, gathering reliable evidence, understanding human behaviour and using data to identify the causes of performance problems. Process analysis therefore provides an important foundation for informed and continuous business process improvement.
 
----
 
 ## AI Use Statement
 
-I used generative AI during the planning and research stage to organise ideas and identify possible scholarly sources. I then checked the sources against the assessment requirements and lecture topics.
-
----
+I used generative AI to support planning idea development and initial research for this ePortfolio. I reviewed the suggested content checked the sources and refined the final work based on the unit materials and assessment requirements.
 
 ## References
 
