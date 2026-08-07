@@ -5,7 +5,7 @@
 **Student Name:** Md Ridwan Hossain  
 **Student Number:** 12311946  
 
-## Artefact 1: Process Execution Benchmarking
+## Process Execution Benchmarking
 
 **Artefact:** Abb et al. (2025) — *Identifying Process Improvement Opportunities Through Process Execution Benchmarking*  
 **Artefact Type:** Peer-reviewed conference paper  
