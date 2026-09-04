@@ -16,36 +16,34 @@ I selected this artefact because it helped me understand the basic language of B
 
 ## Artefact 2: BPMN in a Real Business Process
 
-Selected artefact: Lubane and Kirikova (2025), ‘Interdependency-Aware Business Process Prioritization for Process Improvements’
+Selected artefact: Lima et al. (2025), 'Optimization of Patient Flow in a Cohort Study Using Business Process Model and Notation (BPMN)'
 
-Lubane and Kirikova (2025) examine how organisations can prioritise business processes when resources are limited. Their approach considers process health, strategic importance, feasibility and interdependencies. The study shows that changing one process may affect other connected processes. This supports a strategic approach where organisations focus on high-value or high-impact processes rather than analysing every process equally (Lubane & Kirikova, 2025, p. 36).
+Lima et al. (2025) use BPMN to represent the flow of activities involved in collecting information for a cohort study. The process models helped the researchers visualise the movement of participants through different stages and identify possible difficulties. Problems included participant absences, rescheduling and communication issues. The authors also identified possible ways to improve the process after these problems became clearer through modelling (Lima et al. 2025, p. 1224).
 
-I selected this artefact because it improved my understanding of process prioritisation. Previously I assumed that the most inefficient process should always receive attention first. I now recognise that organisations must also consider strategic value, resources and cross-functional effects. This artefact demonstrates my learning because I can see process analysis as an organisation-wide activity where interconnected processes require careful prioritisation before improvement. This perspective also highlights the importance of analysing process relationships.
+I chose this artefact because it helped me understand how BPMN can be used in a real business process rather than only in classroom examples. I learned that process models can make complex activities easier to follow and can also help identify where issues or delays may occur. Previously I thought modelling was mainly used to document how a process works. I now understand that it can also support analysis and improvement. This artefact demonstrates my BPM understanding because I can connect process modelling with real organisational problems and possible changes.
 
 ## Artefact 3: AI-Assisted BPMN Modelling
 
-Selected artefact: Bartelheimer et al. (2025), ‘Workarounds as a Cause of Mismatches in Business Processes: Insights from a Multiple Case Study’
+Selected artefact: SAP SE (2026), 'SAP Signavio Process Modeler User Guide'
 
-Bartelheimer et al. (2025) examine how employees use workarounds by deviating from standard processes to overcome practical obstacles. Their study investigates 13 workarounds across four organisations and identifies mismatches between formal processes, event logs and actual execution. The findings show that system data may not always represent what employees do in practice which can reduce the reliability of process analysis (Bartelheimer et al., 2025, p. 339).
+SAP Signavio includes an AI-assisted process modeller that can transform a written description of a business process into a visual workflow. The user can provide information about the process and the system can generate a BPMN model. The generated model can then be reviewed and refined by the user. This shows how artificial intelligence is becoming part of modern business process modelling tools and can support faster model creation (SAP SE 2026, pp. 30–31).
 
-I chose this artefact because it made me think more critically about information used during process analysis. I learned that system data or formal documentation alone may not reveal the complete process. Observation, interviews and employee feedback can help identify hidden activities and explain deviations. This demonstrates my BPM understanding because reliable analysis requires accurate data and knowledge of how people actually perform the process.
+I selected this artefact because it expanded my understanding of how process models can be created. Before this topic I assumed that every BPMN model had to be manually created one element at a time. I now understand that AI can support the first stage of modelling by converting written process information into diagrams. However I also learned that human review is still important because the generated model must correctly represent the real process. This artefact demonstrates my learning because I can connect traditional BPMN concepts with new modelling technology.
 
 ## Artefact 4: Large Language Models for Process Modelling
 
-Selected artefact: Lee, Shin and Lee (2025), ‘Manufacturing Process Analysis Framework for Process Mining: Case Study of Fully Automated Factory Applications’
+Apaydin and Zisgen (2025) investigate how a local large language model can support automatic business process modelling. Their approach accepts a written description of a process and uses a fine-tuned language model to generate a visual process tree. The authors explain that local models may also provide more control over sensitive business information compared with sending process information to an external AI service. Their initial results show that the approach can generate useful process structures although some areas still require improvement (Apaydin & Zisgen 2025, p. 606).
 
-Lee, Shin and Lee (2025) present a process mining framework that analyses manufacturing processes from process, time, resource and quality perspectives. Their study shows how event-log data can identify bottlenecks, workload problems and areas requiring improvement. The framework demonstrates how data-driven analysis can provide a clearer view of actual process performance and support continuous optimisation (Lee, Shin & Lee, 2025, p. 5641).
-
-I selected this artefact because it gave me a practical understanding of process mining. Before this topic I mainly associated process analysis with observation and manual investigation. I now understand that event data can reveal waiting times, resource issues and bottlenecks that may be difficult to detect manually. This demonstrates my learning because it connects technology with process performance and shows how process mining supports accurate analysis and continuous improvement.
+I chose this artefact because it made me think more critically about the future of process modelling. I learned that AI can reduce some of the manual effort required to create process models but its results cannot simply be accepted without checking them. Accuracy, privacy and the quality of the original process description can affect the final model. This demonstrates my learning because I can now see business process modelling as an area where human knowledge and technology can work together rather than viewing modelling as only a manual activity.
 
 ## Reflection and Conclusion
 
-Through these artefacts I developed a broader understanding of process analysis and its role in BPM. I learned that effective analysis is not simply about finding inefficient activities. It also involves deciding which processes should be prioritized, collecting reliable information, considering how people actually perform their work and using data to understand the causes of performance issues. Overall I now see process analysis as an important foundation for making informed decisions and supporting continuous business process improvement.
+Through these four artefacts I developed a broader understanding of business process modelling. At first I mainly thought process modelling was about drawing a visual representation of activities. From this artefact I developed a better understanding of how BPMN can be used to clearly represent different parts of a process such as activities, responsibilities, decisions and events. I also learned that process models are useful in real organizations because they can simplify complex workflows and make it easier to identify problems and opportunities for improvement. Modern tools are also changing how models are created through AI-assisted modelling. Overall I now see process modelling as an important communication and improvement tool within BPM rather than simply a way to draw a process.
 
 
 ## AI Use Statement
 
-I used generative AI to support the planning stage, develop ideas and assist with initial research. I carefully reviewed the suggested content, verified the sources and refined the final work using the unit materials and assessment requirements.
+I used generative AI to help with planning, developing ideas and conducting some initial research for this ePortfolio. I reviewed the suggested information carefully, checked the sources and made changes based on the unit materials and the assessment requirements.
 
 ## References
 
