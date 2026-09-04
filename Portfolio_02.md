@@ -47,10 +47,10 @@ I used generative AI to help with planning, developing ideas and conducting some
 
 ## References
 
-Abb, L, Rafiei, M, Kampik, T & Rehse, J-R 2025, ‘Identifying process improvement opportunities through process execution benchmarking’, in R Guizzardi, L Pufahl, A Sturm & H van der Aa (eds), Enterprise, Business-Process and Information Systems Modeling, Lecture Notes in Business Information Processing, vol. 558, Springer Nature Switzerland, doi:10.1007/978-3-031-95397-2_2.
+Apaydin, K & Zisgen, Y 2025, ‘Local large language models for business process modeling’, in A Delgado & T Slaats (eds), *Process Mining Workshops*, Lecture Notes in Business Information Processing, vol. 533, Springer, Cham, pp. 605–609, doi:10.1007/978-3-031-82225-4_44.
 
-Bartelheimer, C, Löhr, B, Reineke, M, Aßbrock, A & Beverungen, D 2025, ‘Workarounds as a cause of mismatches in business processes: insights from a multiple case study’, Business & Information Systems Engineering, vol. 67, no. 3, doi:10.1007/s12599-025-00943-5.
+Camunda 2025, *BPMN 2.0 – Business Process Model and Notation*, Camunda, viewed 4 September 2026, <https://page.camunda.com/hubfs/Camunda_2025-BPMN-Poster_EN_dark_24x18in.pdf?hsLang=en>.
 
-Lee, Y, Shin, J & Lee, W 2025, ‘Manufacturing process analysis framework for process mining: case study of fully automated factory applications’, The International Journal of Advanced Manufacturing Technology, vol. 136, doi:10.1007/s00170-025-15029-5.
+Lima, I, Martins, T, Oliveira, M, Lima, M, Prizon, T, Aranda, D, Martini, L & Leite, S 2025, ‘Optimization of patient flow in a cohort study using Business Process Model and Notation (BPMN)’, *Procedia Computer Science*, vol. 256, pp. 1224–1231, doi:10.1016/j.procs.2025.02.232.
 
-Lubane, L & Kirikova, M 2025, ‘Interdependency-aware business process prioritization for process improvements’, in R Guizzardi, L Pufahl, A Sturm & H van der Aa (eds), Enterprise, Business-Process and Information Systems Modeling, Lecture Notes in Business Information Processing, vol. 558, Springer Nature Switzerland, doi:10.1007/978-3-031-95397-2_3.
+SAP SE 2026, *SAP Signavio Process Modeler User Guide*, SAP SE, viewed 4 September 2026, <https://help.sap.com/docs/signavio-process-modeler/user-guide>.
