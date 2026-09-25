@@ -6,8 +6,7 @@
 **Student Name:** Md Ridwan Hossain  
 **StudentID:** 12311946  
 
-## Artefact 1: Understanding BPMN Symbols and Structure
-
+## Artefact 1: RPA within Business Process Management
 Selected artefact: Khantong and Sriboonlue (2026), ‘Robotic Process Automation in Business Process Management: A Systematic Literature Review and an Integrated Framework’
 
 Khantong and Sriboonlue (2026) examine how Robotic Process Automation is used within Business Process Management. Their review identifies six important areas, including process selection, implementation, performance benefits, challenges, technology integration and organisational governance. The authors combine these areas into a framework based on strategic alignment, operational execution and continuous improvement. This shows that RPA should be managed as part of a wider BPM approach rather than treated as an isolated software tool (Khantong & Sriboonlue, 2026, p. 1).
@@ -48,7 +47,7 @@ I used generative AI during the planning and initial research stages to help ide
 
 ## References
 
-Durão, D & Palma dos Reis, A 2025, ‘An organizational perspective on robotic process automation adoption and usage factors’, *Applied System Innovation*, vol. 8, no. 2, article 33, doi:10.3390/asi8020033.
+Durão, D & Palma dos Reis, A 2025, ‘An organizational perspective on robotic process automation adoption and usage factors’, *Applied System Innovation*, vol. 8, no. 2, article 33, [doi:10.3390/asi8020033](https://doi.org/10.3390/asi8020033).
 
 Kandula, SR, Kassetty, N & Mogulluri, HK 2025, ‘Towards a secure robotic process automation ecosystem: threats and countermeasures’, *International Journal of Global Innovations and Solutions*, January, doi:10.21428/e90189c8.ef0204a8.
 
