@@ -47,11 +47,11 @@ I used generative AI during the planning and initial research stages to help ide
 
 ## References
 
-Durão, D & Palma dos Reis, A 2025, ‘An organizational perspective on robotic process automation adoption and usage factors’, *Applied System Innovation*, vol. 8, no. 2, article 33, [doi:10.3390/asi8020033](https://doi.org/10.3390/asi8020033).
+Durão, D & Palma dos Reis, A 2025, ‘An organizational perspective on robotic process automation adoption and usage factors’, *Applied System Innovation*, vol. 8, no. 2, article 33, <https://doi.org/10.3390/asi8020033>.
 
-Kandula, SR, Kassetty, N & Mogulluri, HK 2025, ‘Towards a secure robotic process automation ecosystem: threats and countermeasures’, *International Journal of Global Innovations and Solutions*, January, doi:10.21428/e90189c8.ef0204a8.
+Kandula, SR, Kassetty, N & Mogulluri, HK 2025, ‘Towards a secure robotic process automation ecosystem: threats and countermeasures’, *International Journal of Global Innovations and Solutions*, January, <https://doi.org/10.21428/e90189c8.ef0204a8>.
 
-Khantong, S & Sriboonlue, P 2026, ‘Robotic process automation in business process management: a systematic literature review and an integrated framework’, *Technologies*, vol. 14, no. 4, article 225, doi:10.3390/technologies14040225.
+Khantong, S & Sriboonlue, P 2026, ‘Robotic process automation in business process management: a systematic literature review and an integrated framework’, *Technologies*, vol. 14, no. 4, article 225, <https://doi.org/10.3390/technologies14040225>.
 
 North Carolina Department of Health and Human Services 2025, *Policy NCDHHS robotic process automation*, North Carolina Department of Health and Human Services, viewed 24 September 2026, <https://policies.ncdhhs.gov/wp-content/uploads/NC-DHHS-Robotic-Process-Automation-Policy_2025.pdf>.
 
